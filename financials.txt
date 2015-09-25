@@ -1,0 +1,19 @@
+
+
+
+There are obvious milestones to hit:
+
+
+-Working MVP
+-first Client
+-10 clients in a week
+-100 clients in a week
+
+
+Estimating the average revenue per session is $10:
+
+To make $1 million = 100,000 sessions.
+To do that in one year:
+100,000 sessions / (52 weeks/yr) = 1924 sessions / week
+
+That is a lot, but not unfeasible.

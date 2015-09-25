@@ -1,0 +1,89 @@
+What is guru?
+        Guru is uber for tutors.
+        At the tap of a button, users can find tutors that will meet them anywhere for as long as they need.
+
+Tutors
+        Specify what times they are available.
+        
+There are two types of timeslots.
+        Regular timeslots can be filled like any appointment.
+        Auction slots allow users to bid to get a specific time slot.
+        Tutors specify the starting price and 24 hrs before the slot, the auction ends.
+    
+Auction 
+    There will be peak times for when tutors are needed.
+    This means that those spots are worth more, because demand is high and supply is low.
+    
+
+There are also surges.
+        If a user needs a tutor immediately, they will pay a surcharge in order for a tutor to stop what they are doing and immediately go to them.
+        This only occurs if there are no tutors available immediately.
+
+Types of tutors:
+        Academic tutors
+                Homework help
+                Enrichment
+                Computer Science
+        Test Prep       
+                SAT tutors
+                GRE tutors
+        Athletic coaches
+        Musical instructors
+        Professional Coaches
+                Medical Doctors
+                MDs at large banks
+
+Minimum viable product will enable two different types of tutors:
+        001 general homework help:
+                science
+                math
+                English
+                Social studies
+        002 Computer Science track
+                CS is hot right now, and many parents want their kids to learn it.
+                Proprietary curriculum from basic HTML to intro level java and beyond
+
+Monetization:
+        Percentage off of every transaction.
+        Uber and Apple take 30%
+        We will charge a flat rate of $45 to users (for the first visit)
+        $45 * .3 = $13.50
+        We make $13.50 per session.
+        The tutor receives the remaining $32.50
+        Each visit, the tutor receives another dollar back, until they reach $35
+                1st visit: $32.50
+                2nd visit: $33.50
+                3rd visit: $34.50
+        This encourages repeat visits and for users to stick with our system.
+
+        Users want our service, because the more they use our service, the cheaper the fee becomes.
+                They can pay $44 and then $43, up until $40.
+                We are essentially paying them to be loyal to us.
+                Eventually our profit margin is only $5 per session.
+                But if they meet once a week, that is still $20/month.
+        Also, if a tutor can't make it one week, because he has an exam or a vacation, the user has the option of using
+                another tutor to seamlessly take that session, and the tutor will fill in the new guy on what to do.
+                This is a pro for both the tutor and the user.
+
+
+
+        Tutors want our service because it handles payment seamlessly.
+                The credit card is stored on file, and instantly transfers to their account.
+
+Flexibility
+    If a tutor can't make a session, they can notify 48 hours in advance.
+    This allows flexibility so that if there is an incredibly busy week, a tutor can free up their schedule, and the student still gets a tutor.
+
+Scale up more tutoring time as needed. 
+    If the student is undergoing a heavy workload, like exam week, etc. they can order more hours from the same tutor if available, or more tutors.
+
+Long term student record with weekly logs        
+    Weekly notes regarding what the student learned so that other tutors can understand their level easily.
+
+
+Tutor profile
+    Credentials (school, interests, hobbies)
+    Classes they have taken
+    Profile picture
+    Short video introducing them?
+

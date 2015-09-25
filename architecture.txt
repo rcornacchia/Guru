@@ -1,0 +1,11 @@
+
+
+
+
+There are three main components:
+
+001     Back-end Server         (Node.js)
+002     Front-end Web-app       (Angular.js)
+003     Front-end iOS app       (Objective-C or Swift)
+
+
